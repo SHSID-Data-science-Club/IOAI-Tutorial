@@ -2,7 +2,7 @@
 
 <div align="left">
 
-High School ML Course
+International Olympiad of Artificial Intelligence Guide
 =====================
 created by the SHSID Data Science Club
 

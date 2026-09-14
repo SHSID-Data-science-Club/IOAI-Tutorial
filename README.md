@@ -2,9 +2,10 @@
 
 <div align="left">
 
-International Olympiad of Artificial Intelligence Guide
+International Olympiad in Artificial Intelligence Guide
 =====================
-created by the SHSID Data Science Club
+
+Created by the SHSID Data Science Club
 
 ---
 
